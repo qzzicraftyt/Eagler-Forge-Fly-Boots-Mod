@@ -1,6 +1,6 @@
 // ==EaglerForge Mod==
 // @name Diamond Boots Flight
-// @author ChatGPT
+// @author Qzzi_craft
 // @version 1.0
 // @description Grants creative flight when wearing diamond boots
 // ==/EaglerForge Mod==
